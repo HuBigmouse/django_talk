@@ -127,11 +127,6 @@ python manage.py runserver
 ]
 ```
 
-## 视觉风格说明
-- 品牌主色：`#c8d900`（`--brand-primary`）
-- 主文本色：`#080604`（`--brand-secondary`）
-- 悬停动效：统一 `u-hover`（轻微上移 + 亮度提升）
-- 英雄按钮：`btn-hero` / `btn-hero-outline`
 
 ## 常见问题
 - 端口占用：`runserver` 报错时换端口 `python manage.py runserver 0.0.0.0:8001`
